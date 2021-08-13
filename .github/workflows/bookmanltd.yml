@@ -1,8 +1,8 @@
-# This is a basic workflow to help you get started with Actions
+# This is Bookman Ltd , are you ready?
 
-name: CI
+name: FI
 
-# Controls when the workflow will run
+# Know the number
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
